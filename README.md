@@ -19,6 +19,8 @@ Built in Java, it is an improved version of NeoRazer's Black-Jack.
 
 Here, the dollar sign is actually used, and there are shop items such as fake aces, incinerators, and guns. 
 
+As well as that, the bot actually plays like a dealer, where it has a system of whether to hit or stand. 
+
 <a href="https://github.com/octaviustheking/blackhack">The Link</a>
 
 ---
