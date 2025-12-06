@@ -32,3 +32,11 @@ Also built in C++, this is an "improved" version of ImmatureGoat's blackhack.
 Similar to blackhack, there are shop items, such as double up, but there is also a chip system. 
 
 No link yet... :(
+
+---
+## blackjack
+The fourth, by kamishiro
+
+Built in C in 1 hour
+
+<a href="https://github.com/kamishiro-624/blackjack/blob/main/main.c">The Link</a>
